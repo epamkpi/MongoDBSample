@@ -1,6 +1,17 @@
-*.class
+.git
+.gitignore
 
-# Package Files #
-*.jar
-*.war
-*.ear
+.DS_Store
+
+.idea
+.project
+.classpath
+
+*.iml
+
+.gradle
+
+target
+build
+out
+classes
