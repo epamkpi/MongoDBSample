@@ -5,7 +5,7 @@ This is sample project showing how to work with MongoDB driver API.
 
 To run tests you need to bring MongoDB database up, populate it with initial tweets data and optional run it in sharded/replicated configuration. 
 
-> NOTE: Pay attention to DB port you are using to connect to MongoDB using MongoDb driver!
+> NOTE: Pay attention to DB port you are using to connect to MongoDB using MongoDb driver! Also you need to use full domain name of your computer if you connected to network, otherwise you can use simply localhost.
 
 ### How to get MongoDB and how to get it up and running?  
 * Download and unzip MongoDB distribution somewhere on your computer.  
